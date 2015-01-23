@@ -1,0 +1,19 @@
+19/02/2014 15:39:46: DEBUG    file logger attached
+19/02/2014 15:39:46: INFO     running step 1 - Step1
+19/02/2014 15:39:46: INFO     sequence was extracted from pdb file. sequence length=181
+19/02/2014 15:39:47: INFO     running step 2 - manual blast
+19/02/2014 15:39:48: INFO     running step 3 - Step3
+19/02/2014 15:39:48: INFO     running step 4 - Step4
+10/03/2014 16:02:06: DEBUG    file logger attached
+10/03/2014 16:02:06: INFO     deleting previous results (steps 7-7)
+10/03/2014 16:02:06: INFO     running step 7 - Step7
+10/03/2014 16:02:36: DEBUG    file logger attached
+10/03/2014 16:02:36: INFO     deleting previous results (steps 7-7)
+10/03/2014 16:02:36: INFO     running step 7 - Step7
+10/03/2014 16:03:25: DEBUG    file logger attached
+10/03/2014 16:03:25: INFO     deleting previous results (steps 4-7)
+10/03/2014 16:03:25: INFO     running step 4 - Step4
+10/03/2014 16:03:41: DEBUG    file logger attached
+10/03/2014 16:03:41: INFO     deleting previous results (steps 3-7)
+10/03/2014 16:03:41: DEBUG    deleting /Users/Wes/working/trunk/results/2014-02-19 15-39-46/msa.fasta
+10/03/2014 16:03:41: INFO     running step 3 - Step3

@@ -1,0 +1,6 @@
+19/02/2014 15:38:38: DEBUG    file logger attached
+19/02/2014 15:38:38: INFO     running step 1 - Step1
+19/02/2014 15:38:38: INFO     sequence was extracted from pdb file. sequence length=572
+19/02/2014 15:38:41: INFO     running step 2 - manual blast
+19/02/2014 15:38:46: INFO     running step 3 - Step3
+19/02/2014 15:38:46: INFO     running step 4 - Step4

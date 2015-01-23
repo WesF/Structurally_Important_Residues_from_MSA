@@ -1,0 +1,127 @@
+19/02/2014 15:41:36: DEBUG    file logger attached
+19/02/2014 15:41:36: INFO     running step 1 - Step1
+19/02/2014 15:41:36: INFO     sequence was extracted from pdb file. sequence length=572
+19/02/2014 15:41:39: INFO     running step 2 - manual blast
+19/02/2014 16:04:26: INFO     running step 3 - Step3
+19/02/2014 16:06:31: INFO     running step 4 - Step4
+19/02/2014 16:06:32: INFO     sequence length is 1441
+19/02/2014 16:06:32: INFO     found 501 sequences
+19/02/2014 16:06:46: INFO     1% calculated
+19/02/2014 16:07:01: INFO     2% calculated
+19/02/2014 16:07:15: INFO     3% calculated
+19/02/2014 16:07:29: INFO     4% calculated
+19/02/2014 16:07:44: INFO     5% calculated
+19/02/2014 16:07:58: INFO     6% calculated
+19/02/2014 16:08:12: INFO     7% calculated
+19/02/2014 16:08:26: INFO     8% calculated
+19/02/2014 16:08:41: INFO     9% calculated
+19/02/2014 16:08:58: INFO     10% calculated
+19/02/2014 16:09:17: INFO     11% calculated
+19/02/2014 16:09:37: INFO     12% calculated
+19/02/2014 16:09:56: INFO     13% calculated
+19/02/2014 16:10:15: INFO     14% calculated
+19/02/2014 16:10:33: INFO     15% calculated
+19/02/2014 16:10:52: INFO     16% calculated
+19/02/2014 16:11:10: INFO     17% calculated
+19/02/2014 16:11:28: INFO     18% calculated
+19/02/2014 16:11:46: INFO     19% calculated
+19/02/2014 16:12:04: INFO     20% calculated
+19/02/2014 16:12:23: INFO     21% calculated
+19/02/2014 16:12:41: INFO     22% calculated
+19/02/2014 16:12:59: INFO     23% calculated
+19/02/2014 16:13:17: INFO     24% calculated
+19/02/2014 16:13:36: INFO     25% calculated
+19/02/2014 16:13:54: INFO     26% calculated
+19/02/2014 16:14:12: INFO     27% calculated
+19/02/2014 16:14:30: INFO     28% calculated
+19/02/2014 16:14:47: INFO     29% calculated
+19/02/2014 16:15:04: INFO     30% calculated
+19/02/2014 16:15:20: INFO     31% calculated
+19/02/2014 16:15:37: INFO     32% calculated
+19/02/2014 16:15:55: INFO     33% calculated
+19/02/2014 16:16:13: INFO     34% calculated
+19/02/2014 16:16:30: INFO     35% calculated
+19/02/2014 16:16:47: INFO     36% calculated
+19/02/2014 16:17:05: INFO     37% calculated
+19/02/2014 16:17:23: INFO     38% calculated
+19/02/2014 16:17:41: INFO     39% calculated
+19/02/2014 16:17:59: INFO     40% calculated
+19/02/2014 16:18:17: INFO     41% calculated
+19/02/2014 16:18:35: INFO     42% calculated
+19/02/2014 16:18:53: INFO     43% calculated
+19/02/2014 16:19:11: INFO     44% calculated
+19/02/2014 16:19:29: INFO     45% calculated
+19/02/2014 16:19:47: INFO     46% calculated
+19/02/2014 16:20:05: INFO     47% calculated
+19/02/2014 16:20:23: INFO     48% calculated
+19/02/2014 16:20:40: INFO     49% calculated
+19/02/2014 16:20:58: INFO     50% calculated
+19/02/2014 16:21:14: INFO     51% calculated
+19/02/2014 16:21:32: INFO     52% calculated
+19/02/2014 16:21:50: INFO     53% calculated
+19/02/2014 16:22:08: INFO     54% calculated
+19/02/2014 16:22:26: INFO     55% calculated
+19/02/2014 16:22:44: INFO     56% calculated
+19/02/2014 16:23:02: INFO     57% calculated
+19/02/2014 16:23:20: INFO     58% calculated
+19/02/2014 16:23:38: INFO     59% calculated
+19/02/2014 16:23:56: INFO     60% calculated
+19/02/2014 16:24:14: INFO     61% calculated
+19/02/2014 16:24:32: INFO     62% calculated
+19/02/2014 16:24:48: INFO     63% calculated
+19/02/2014 16:25:06: INFO     64% calculated
+19/02/2014 16:25:24: INFO     65% calculated
+19/02/2014 16:25:42: INFO     66% calculated
+19/02/2014 16:25:59: INFO     67% calculated
+19/02/2014 16:26:16: INFO     68% calculated
+19/02/2014 16:26:34: INFO     69% calculated
+19/02/2014 16:26:52: INFO     70% calculated
+19/02/2014 16:27:09: INFO     71% calculated
+19/02/2014 16:27:27: INFO     72% calculated
+19/02/2014 16:27:45: INFO     73% calculated
+19/02/2014 16:28:01: INFO     74% calculated
+19/02/2014 16:28:18: INFO     75% calculated
+19/02/2014 16:28:34: INFO     76% calculated
+19/02/2014 16:28:52: INFO     77% calculated
+19/02/2014 16:29:09: INFO     78% calculated
+19/02/2014 16:29:26: INFO     79% calculated
+19/02/2014 16:29:43: INFO     80% calculated
+19/02/2014 16:30:00: INFO     81% calculated
+19/02/2014 16:30:16: INFO     82% calculated
+19/02/2014 16:30:33: INFO     83% calculated
+19/02/2014 16:30:50: INFO     84% calculated
+19/02/2014 16:31:07: INFO     85% calculated
+19/02/2014 16:31:24: INFO     86% calculated
+19/02/2014 16:31:41: INFO     87% calculated
+19/02/2014 16:31:58: INFO     88% calculated
+19/02/2014 16:32:14: INFO     89% calculated
+19/02/2014 16:32:31: INFO     90% calculated
+19/02/2014 16:32:48: INFO     91% calculated
+19/02/2014 16:33:04: INFO     92% calculated
+19/02/2014 16:33:21: INFO     93% calculated
+19/02/2014 16:33:38: INFO     94% calculated
+19/02/2014 16:33:54: INFO     95% calculated
+19/02/2014 16:34:11: INFO     96% calculated
+19/02/2014 16:34:28: INFO     97% calculated
+19/02/2014 16:34:45: INFO     98% calculated
+19/02/2014 16:35:01: INFO     99% calculated
+19/02/2014 16:35:16: INFO     running step 5 - Step5
+19/02/2014 16:35:40: INFO     running step 6 - Step6
+19/02/2014 16:35:40: INFO     running step 7 - Step7
+19/02/2014 16:35:41: ERROR    correlations has 572 lines. distances has 570 lines
+19/02/2014 16:42:06: DEBUG    file logger attached
+19/02/2014 16:42:06: INFO     no steps to run
+19/02/2014 16:42:44: DEBUG    file logger attached
+19/02/2014 16:42:44: INFO     deleting previous results (steps 6-7)
+19/02/2014 16:42:44: DEBUG    deleting /Users/Wes/working/trunk/results/2014-02-19 15-41-36/correlation_for_pair.txt
+19/02/2014 16:42:44: INFO     running step 6 - Step6
+19/02/2014 16:42:45: INFO     running step 7 - Step7
+19/02/2014 16:42:45: ERROR    correlations has 572 lines. distances has 570 lines
+19/02/2014 16:42:52: DEBUG    file logger attached
+19/02/2014 16:42:52: INFO     deleting previous results (steps 5-7)
+19/02/2014 16:42:52: DEBUG    deleting /Users/Wes/working/trunk/results/2014-02-19 15-41-36/correlations_reduced.txt
+19/02/2014 16:42:52: DEBUG    deleting /Users/Wes/working/trunk/results/2014-02-19 15-41-36/correlation_for_pair.txt
+19/02/2014 16:42:52: INFO     running step 5 - Step5
+19/02/2014 16:43:15: INFO     running step 6 - Step6
+19/02/2014 16:43:16: INFO     running step 7 - Step7
+19/02/2014 16:43:16: ERROR    correlations has 572 lines. distances has 570 lines

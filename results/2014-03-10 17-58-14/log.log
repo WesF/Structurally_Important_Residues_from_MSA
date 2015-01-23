@@ -1,0 +1,116 @@
+10/03/2014 17:58:14: DEBUG    file logger attached
+10/03/2014 17:58:14: INFO     running step 1 - Step1
+10/03/2014 17:58:14: INFO     sequence was extracted from pdb file. sequence length=53
+10/03/2014 17:58:14: INFO     running step 2 - manual blast
+10/03/2014 18:02:47: INFO     running step 3 - Step3
+10/03/2014 18:02:48: INFO     running step 4 - Step4
+10/03/2014 18:02:48: INFO     sequence length is 58
+10/03/2014 18:02:48: INFO     found 501 sequences
+10/03/2014 18:02:48: INFO     1% calculated
+10/03/2014 18:02:48: INFO     2% calculated
+10/03/2014 18:02:48: INFO     3% calculated
+10/03/2014 18:02:48: INFO     4% calculated
+10/03/2014 18:02:48: INFO     5% calculated
+10/03/2014 18:02:48: INFO     6% calculated
+10/03/2014 18:02:48: INFO     7% calculated
+10/03/2014 18:02:48: INFO     8% calculated
+10/03/2014 18:02:48: INFO     9% calculated
+10/03/2014 18:02:48: INFO     10% calculated
+10/03/2014 18:02:48: INFO     11% calculated
+10/03/2014 18:02:48: INFO     12% calculated
+10/03/2014 18:02:48: INFO     13% calculated
+10/03/2014 18:02:48: INFO     14% calculated
+10/03/2014 18:02:48: INFO     15% calculated
+10/03/2014 18:02:49: INFO     16% calculated
+10/03/2014 18:02:49: INFO     17% calculated
+10/03/2014 18:02:49: INFO     18% calculated
+10/03/2014 18:02:49: INFO     19% calculated
+10/03/2014 18:02:49: INFO     20% calculated
+10/03/2014 18:02:49: INFO     21% calculated
+10/03/2014 18:02:49: INFO     22% calculated
+10/03/2014 18:02:49: INFO     23% calculated
+10/03/2014 18:02:49: INFO     24% calculated
+10/03/2014 18:02:49: INFO     25% calculated
+10/03/2014 18:02:49: INFO     26% calculated
+10/03/2014 18:02:49: INFO     27% calculated
+10/03/2014 18:02:49: INFO     28% calculated
+10/03/2014 18:02:49: INFO     29% calculated
+10/03/2014 18:02:49: INFO     30% calculated
+10/03/2014 18:02:49: INFO     31% calculated
+10/03/2014 18:02:49: INFO     32% calculated
+10/03/2014 18:02:49: INFO     33% calculated
+10/03/2014 18:02:49: INFO     34% calculated
+10/03/2014 18:02:49: INFO     35% calculated
+10/03/2014 18:02:49: INFO     36% calculated
+10/03/2014 18:02:49: INFO     37% calculated
+10/03/2014 18:02:49: INFO     38% calculated
+10/03/2014 18:02:49: INFO     39% calculated
+10/03/2014 18:02:49: INFO     40% calculated
+10/03/2014 18:02:49: INFO     41% calculated
+10/03/2014 18:02:49: INFO     42% calculated
+10/03/2014 18:02:50: INFO     43% calculated
+10/03/2014 18:02:50: INFO     44% calculated
+10/03/2014 18:02:50: INFO     45% calculated
+10/03/2014 18:02:50: INFO     46% calculated
+10/03/2014 18:02:50: INFO     47% calculated
+10/03/2014 18:02:50: INFO     48% calculated
+10/03/2014 18:02:50: INFO     49% calculated
+10/03/2014 18:02:50: INFO     50% calculated
+10/03/2014 18:02:50: INFO     51% calculated
+10/03/2014 18:02:50: INFO     52% calculated
+10/03/2014 18:02:50: INFO     53% calculated
+10/03/2014 18:02:50: INFO     54% calculated
+10/03/2014 18:02:50: INFO     55% calculated
+10/03/2014 18:02:50: INFO     56% calculated
+10/03/2014 18:02:50: INFO     57% calculated
+10/03/2014 18:02:50: INFO     58% calculated
+10/03/2014 18:02:50: INFO     59% calculated
+10/03/2014 18:02:50: INFO     60% calculated
+10/03/2014 18:02:50: INFO     61% calculated
+10/03/2014 18:02:50: INFO     62% calculated
+10/03/2014 18:02:50: INFO     63% calculated
+10/03/2014 18:02:50: INFO     64% calculated
+10/03/2014 18:02:50: INFO     65% calculated
+10/03/2014 18:02:50: INFO     66% calculated
+10/03/2014 18:02:50: INFO     67% calculated
+10/03/2014 18:02:50: INFO     68% calculated
+10/03/2014 18:02:51: INFO     69% calculated
+10/03/2014 18:02:51: INFO     70% calculated
+10/03/2014 18:02:51: INFO     71% calculated
+10/03/2014 18:02:51: INFO     72% calculated
+10/03/2014 18:02:51: INFO     73% calculated
+10/03/2014 18:02:51: INFO     74% calculated
+10/03/2014 18:02:51: INFO     75% calculated
+10/03/2014 18:02:51: INFO     76% calculated
+10/03/2014 18:02:51: INFO     77% calculated
+10/03/2014 18:02:51: INFO     78% calculated
+10/03/2014 18:02:51: INFO     79% calculated
+10/03/2014 18:02:51: INFO     80% calculated
+10/03/2014 18:02:51: INFO     81% calculated
+10/03/2014 18:02:51: INFO     82% calculated
+10/03/2014 18:02:51: INFO     83% calculated
+10/03/2014 18:02:51: INFO     84% calculated
+10/03/2014 18:02:51: INFO     85% calculated
+10/03/2014 18:02:51: INFO     86% calculated
+10/03/2014 18:02:51: INFO     87% calculated
+10/03/2014 18:02:51: INFO     88% calculated
+10/03/2014 18:02:51: INFO     89% calculated
+10/03/2014 18:02:51: INFO     90% calculated
+10/03/2014 18:02:51: INFO     91% calculated
+10/03/2014 18:02:51: INFO     92% calculated
+10/03/2014 18:02:51: INFO     93% calculated
+10/03/2014 18:02:51: INFO     94% calculated
+10/03/2014 18:02:51: INFO     95% calculated
+10/03/2014 18:02:51: INFO     96% calculated
+10/03/2014 18:02:51: INFO     running step 5 - Step5
+10/03/2014 18:02:51: INFO     running step 6 - Step6
+10/03/2014 18:02:52: INFO     running step 7 - Step7
+10/03/2014 18:02:52: INFO     correlations has 53 lines. distances has 53 lines
+16/03/2014 15:08:47: DEBUG    file logger attached
+16/03/2014 15:08:47: INFO     deleting previous results (steps 7-7)
+16/03/2014 15:08:47: INFO     running step 7 - Step7
+16/03/2014 15:08:47: INFO     correlations has 53 lines. distances has 53 lines
+16/03/2014 15:09:04: DEBUG    file logger attached
+16/03/2014 15:09:04: INFO     deleting previous results (steps 7-7)
+16/03/2014 15:09:04: INFO     running step 7 - Step7
+16/03/2014 15:09:04: INFO     correlations has 53 lines. distances has 53 lines
